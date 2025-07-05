@@ -1,0 +1,13 @@
+{
+  "appName": "user",
+  "userGivenName": "user",
+  "destNamespace": "argocd",
+  "destServer": "https://kubernetes.default.svc",
+  "srcPath": "user/apps/metrics",
+  "srcRepoURL": "https://github.com/MrDan4es/test-gitops-repo.git",
+  "srcTargetRevision": "",
+  "labels": null,
+  "annotations": null,
+  "exclude": "",
+  "include": ""
+}
